@@ -4,7 +4,7 @@
 
 Notepad merupakan teks editor bawahan dari Windows.
 
-<img src="./__screenshots/01.png" width="500px">
+<img src="./__screenshots/01.png" width="800px">
 
 ## Notepad++
 
@@ -12,7 +12,7 @@ Notepad++ merupakan teks editor yang mirip seperti Notepad tetapi memiliki  vitu
 
 Download di sini https://notepad-plus-plus.org/downloads/
 
-<img src="./__screenshots/02.png" width="500px">
+<img src="./__screenshots/02.png" width="800px">
 
 ## Sublime Text 3
 
@@ -20,7 +20,7 @@ Sublime Text 3 merupakan salah satu teks editor yang dibuat khusus untuk menulis
 
 Download di sini https://www.sublimetext.com/3
 
-<img src="./__screenshots/03.png" width="500px">
+<img src="./__screenshots/03.png" width="800px">
 
 ## Visual Studio Code
 
@@ -28,4 +28,4 @@ Visual Studio Code merupakan juga merupakan teks editor yang dibuat khusus untuk
 
 Download di sini https://code.visualstudio.com/download
 
-<img src="./__screenshots/04.png" width="500px">
+<img src="./__screenshots/04.png" width="800px">
